@@ -1,0 +1,3 @@
+en:
+  errors:
+    full_message: "%{message}"
